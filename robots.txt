@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://faxlab3d.github.io/portfolio/sitemap.xml
