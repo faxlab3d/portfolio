@@ -3,7 +3,7 @@
     <title>Portfolio</title>
     <link href="https://faxlab3d.github.io/portfolio/feed.xml" rel="self" />
     <link href="https://faxlab3d.github.io/portfolio" />
-    <updated>2025-11-12T11:44:35+02:00</updated>
+    <updated>2025-11-12T13:56:32+02:00</updated>
     <author>
         <name>f4x</name>
     </author>
@@ -289,6 +289,7 @@
             <![CDATA[
                 <p>New Hell is a passion project of mine where I utilized Blueprint actors and Construction Script extensively to build a diesel-punk environment. I've created countless Blueprint tools to help build this massive environment.</p>
 <p>IYou can read more about the tools involved in creating this environment <a href="https://github.com/faxlab3d/New-Hell-Overview">here</a> </p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/fTGOUx223mU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://faxlab3d.github.io/portfolio/media/posts/1/gallery/HighresScreenshot00030.jpg" data-size="1920x1080"><img loading="lazy" src="https://faxlab3d.github.io/portfolio/media/posts/1/gallery/HighresScreenshot00030-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 <figure class="gallery__item"><a href="https://faxlab3d.github.io/portfolio/media/posts/1/gallery/HighresScreenshot00004.jpg" data-size="1920x1080"><img loading="lazy" src="https://faxlab3d.github.io/portfolio/media/posts/1/gallery/HighresScreenshot00004-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
